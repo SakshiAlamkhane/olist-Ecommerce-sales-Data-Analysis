@@ -18,21 +18,13 @@ The project uses **SQL, Excel, and Power BI** to clean, analyze, visualize, and 
 ## 📁 Project Structure
 
 ```text
-Olist-Ecommerce-Data-Analysis/
+Project Structure
 │
-├── Data/
-│   └── Dataset files
-│
-├── SQL/
-│   └── Olist Ecommerce KPI queries
-│
-├── Excel/
-│   └── Excel dashboard
-│
-├── PowerBI/
-│   └── Power BI dashboard
-│
+├── Data
 ├── README.md
+├── olist Ecommerce Power BI Dashboard.mp4
+├── olist Ecommerce dashboard photo excel.png
+└── olist Ecommerce kpi.sql
 ```
 
 ## 📌 Key Analysis Areas
