@@ -48,11 +48,16 @@ Interactive Power BI dashboard showcasing important e-commerce KPIs, sales trend
 
 ## 📊 Power BI Dashboard photo
 
-![Dashboard](PowerBI/dashboard.jpeg)
+## 📊 Power BI Dashboard
 
-![Navigator](PowerBI/navigator.jpeg)
+### Navigator
+![Power BI Navigator](./power%20bi%20dashboard%20photo/Navigator.jpeg)
 
-![Sales Report](PowerBI/sales%20report.jpeg)
+### Dashboard
+![Power BI Dashboard](./power%20bi%20dashboard%20photo/dashboard.jpeg)
+
+### Sales Report
+![Power BI Sales Report](./power%20bi%20dashboard%20photo/sales%20report.jpeg)
 
 
 
