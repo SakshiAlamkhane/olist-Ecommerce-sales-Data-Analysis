@@ -54,7 +54,7 @@ Interactive Power BI dashboard showcasing important e-commerce KPIs, sales trend
 Excel-based dashboard created to analyze and visualize the Olist e-commerce dataset.
 
 **View Excel Dashboard:**
-[Google Sheets – Excel Dashboard](https://docs.google.com/spreadsheets/d/111NZqF5FfsMovUtVM7ydIhaZD0rR6k2M/edit?usp=drive_link)
+[Google Sheets – Excel Dashboard](https://docs.google.com/spreadsheets/d/111NZqF5FfsMovUtVM7ydIhaZD0rR6k2M/edit?usp=drive_link&ouid=112713664149978597401&rtpof=true&sd=true)
 
 ## 🗄️ SQL Analysis
 
