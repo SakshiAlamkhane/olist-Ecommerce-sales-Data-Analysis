@@ -45,6 +45,11 @@ Project Structure
 ### Power BI Dashboard
 
 Interactive Power BI dashboard showcasing important e-commerce KPIs, sales trends, customer insights, and business performance.
+## 📊 Power BI Dashboard photo
+
+![Power BI Dashboard](olist_Ecommerce_dashboard_photo_excel.png).
+
+Add files)
 
 **View Power BI Dashboard:**
 [Google Drive – Power BI Dashboard](https://drive.google.com/file/d/1HYQSOPzyWqZ8YO0kb_pNVFP9SoADAYLy/view?usp=sharing).
