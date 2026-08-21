@@ -46,6 +46,16 @@ Project Structure
 
 Interactive Power BI dashboard showcasing important e-commerce KPIs, sales trends, customer insights, and business performance.
 
+## 📊 Power BI Dashboard photo
+
+![Dashboard](PowerBI/dashboard.jpeg)
+
+![Navigator](PowerBI/navigator.jpeg)
+
+![Sales Report](PowerBI/sales%20report.jpeg)
+
+
+
 
 **View Power BI Dashboard:**
 [Google Drive – Power BI Dashboard](https://drive.google.com/file/d/1HYQSOPzyWqZ8YO0kb_pNVFP9SoADAYLy/view?usp=sharing).
