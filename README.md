@@ -47,14 +47,13 @@ Project Structure
 Interactive Power BI dashboard showcasing important e-commerce KPIs, sales trends, customer insights, and business performance.
 
 **View Power BI Dashboard:**
-[Google Drive – Power BI Dashboard](https://drive.google.com/file/d/1HYQSOPzyWqZ8YO0kb_pNVFP9SoADAYLy/view?usp=drive_link)
-
+[Google Drive – Power BI Dashboard](https://drive.google.com/file/d/1HYQSOPzyWqZ8YO0kb_pNVFP9SoADAYLy/view?usp=sharing).
 ### Excel Dashboard
 
 Excel-based dashboard created to analyze and visualize the Olist e-commerce dataset.
 
 **View Excel Dashboard:**
-[Google Sheets – Excel Dashboard](https://docs.google.com/spreadsheets/d/111NZqF5FfsMovUtVM7ydIhaZD0rR6k2M/edit?usp=drive_link&ouid=112713664149978597401&rtpof=true&sd=true)
+[Google Sheets – Excel Dashboard](https://docs.google.com/spreadsheets/d/111NZqF5FfsMovUtVM7ydIhaZD0rR6k2M/edit?usp=sharing&ouid=112713664149978597401&rtpof=true&sd=true)
 
 ## 🗄️ SQL Analysis
 
